@@ -39,6 +39,7 @@ console.log(sum_5);
 let sum_6 = 12 + 10 + "px";
 console.log(sum_6);
 
+// 12 + 10 + "px" = 22px;
 
 
 
